@@ -7,11 +7,11 @@ Online voting system will help to speed up the counting of ballots, reduce the c
 
 2)	Adding voter details like: [ can be only done by admin]
 
-* a.	Name
-* b.	Age
-* c.	Gender
-* d.	Password
-* e.	Election he/she wants to vote for
+*	Name
+*	Age
+*	Gender
+*	Password
+*	Election he/she wants to vote for
 
 3)	Editing voter details [ can be done only by admin]
 
@@ -19,11 +19,11 @@ Online voting system will help to speed up the counting of ballots, reduce the c
 
 5)	Viewing voter details [can be done only by admin] 
 6)	Adding candidate details like [can only be done by admin]
-a.	Name
-b.	Age
-c.	Gender
-d.	Picture
-e.	Election he/she wants to stand for 
+* Name
+* Age
+*	Gender
+*	Picture
+*	Election he/she wants to stand for 
 
 7)	Editing candidate details [can be done only by admin]
 
@@ -32,8 +32,8 @@ e.	Election he/she wants to stand for
 9)	Viewing candidate details [can be done only by admin]
 
 10)	Add election details like [can be done only by admin]
-a.	Name of the election
-b.	Date to cast vote for election
+*	Name of the election
+*	Date to cast vote for election
 
 11)	Editing election details [can be done only by admin]
 
