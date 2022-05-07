@@ -1,2 +1,2 @@
 # Online-Voting-System
-Online Voting System
+Online voting system will help to speed up the counting of ballots, reduce the cost of paying staff to count votes manually and can provide improved accessibility for disabled voters. Also in the long term, expenses are expected to decrease. Results can be reported and published faster. The admin will manage candidates, types of elections, voters, and election results. The voter will have to register with the admin to login and can then choose who to give his/her vote.
