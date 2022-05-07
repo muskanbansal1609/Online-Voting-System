@@ -2,16 +2,16 @@
 Online voting system will help to speed up the counting of ballots, reduce the cost of paying staff to count votes manually and can provide improved accessibility for disabled voters. Also in the long term, expenses are expected to decrease. Results can be reported and published faster. The admin will manage candidates, types of elections, voters, and election results. The voter will have to register with the admin to login and can then choose who to give his/her vote.
 
 
-##Functionalities in our project:
+## Functionalities in our project:
 1)	Login: Both admin and voter can login by mentioning their name and password.
 
 2)	Adding voter details like: [ can be only done by admin]
 
-*a.	Name
-*b.	Age
-*c.	Gender
-*d.	Password
-*e.	Election he/she wants to vote for
+* a.	Name
+* b.	Age
+* c.	Gender
+* d.	Password
+* e.	Election he/she wants to vote for
 
 3)	Editing voter details [ can be done only by admin]
 
