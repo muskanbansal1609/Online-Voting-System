@@ -60,6 +60,7 @@ Voter login:
 ![voter login page](https://user-images.githubusercontent.com/68641946/183244149-d1b429d5-7a3d-4c03-a9f4-a0bcea976ec8.PNG)
 
 Admin login:
+
 ![admin login page](https://user-images.githubusercontent.com/68641946/183244176-e9d8b146-c912-49b5-b426-bae41da5a52f.jpeg)
 
 Dashboard:
