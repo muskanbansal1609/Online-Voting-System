@@ -64,23 +64,30 @@ Admin login:
 ![admin login page](https://user-images.githubusercontent.com/68641946/183244176-e9d8b146-c912-49b5-b426-bae41da5a52f.jpeg)
 
 Dashboard:
+
 ![Mainmenu page](https://user-images.githubusercontent.com/68641946/183244097-ae8bdaf3-1143-4f1e-ab58-9e206710280f.PNG)
 
 Manage elections:
+
 ![election login page](https://user-images.githubusercontent.com/68641946/183244210-8fea897f-80cb-424c-aa29-c96230fe4b20.PNG)
 
 Manage candidates:
+
 ![candidates page(Add,edit,delete)](https://user-images.githubusercontent.com/68641946/183244258-c7742251-24d9-40fc-9a3a-567455b46c8f.PNG)
 
 Manage voters:
+
 ![voters page(add,edit,delete)](https://user-images.githubusercontent.com/68641946/183244235-331b7013-88bf-4ebe-8413-5a0cfc4e0e5f.PNG)
 
 Voters cast their vote:
+
 ![after voting for the first time (voting page)](https://user-images.githubusercontent.com/68641946/183244281-a071b11e-69ac-44e9-9a19-58e16d94b762.PNG)
 
 More than one vote casted:
+
 ![if a voter has already voted(voting page)](https://user-images.githubusercontent.com/68641946/183244301-6348446f-3132-4827-a6f6-90d065f1a8af.PNG)
 
 Election results:
+
 ![final election winner,Dashboard page](https://user-images.githubusercontent.com/68641946/183244312-82d9cc91-7f2d-43c9-8c02-4735f75c6fa5.PNG)
 
