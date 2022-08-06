@@ -49,12 +49,14 @@ Online voting system will help to speed up the counting of ballots, reduce the c
 
 15)	Admin can then view the results from the election list ( displays the number of votes winner won and percentage of people voted for the candidate)  
 
-#OUTPUT:
+# OUTPUT:
 
 Opening module:
+
 ![opening module](https://user-images.githubusercontent.com/68641946/183244096-b0d27dd4-acf9-469d-bb9f-1289d9afcd5f.jpeg)
 
 Voter login:
+
 ![voter login page](https://user-images.githubusercontent.com/68641946/183244149-d1b429d5-7a3d-4c03-a9f4-a0bcea976ec8.PNG)
 
 Admin login:
